@@ -4,7 +4,7 @@
 Software Engineering student passionate about building solutions and learning new technologies every day. My philosophy is continuous learning and contributing to collective progress.
 
 ## 💻 Technical Skills
-- **Programming Languages**: Java, JavaScript, Python, C#, C++
+- **Programming Languages**: Java, JavaScript, Python, C#, C, C++
 - **DevOps**: CI/CD, Automation, Infrastructure
 - **Networking**: Network protocols and infrastructure
 
@@ -28,3 +28,4 @@ I recently built a full-stack task management application with both frontend and
 
 
 *Always learning, always growing* 🚀
+
