@@ -5,8 +5,10 @@ Software Engineering student passionate about building solutions and learning ne
 
 ## 💻 Technical Skills
 - **Programming Languages**: Java, JavaScript, Python, C#, C, C++
-- **DevOps**: CI/CD, Automation, Infrastructure
+- **DevOps**: CI/CD, Automation, Infrastructure, Docker, GitHub Actions CI/CD
 - **Networking**: Network protocols and infrastructure
+- **Databases**: PostgresSQL 15, PgAdmin
+- **Testing**: Jest, Supertest (API testing)
 
 ## 🚀 Recent Projects
 I recently built a full-stack task management application with both frontend and backend components. Check them out in my repositories!
@@ -28,6 +30,7 @@ I recently built a full-stack task management application with both frontend and
 
 
 *Always learning, always growing* 🚀
+
 
 
 
