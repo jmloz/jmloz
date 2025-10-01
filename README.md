@@ -1,4 +1,4 @@
-﻿# Hi there! 👋 I'm José Martín Hernández
+﻿# Hi there - Hola! 👋 Martin Hernández
 
 ## 🎓 About Me
 Software Engineering student passionate about building solutions and learning new technologies every day. My philosophy is continuous learning and contributing to collective progress.
@@ -28,4 +28,5 @@ I recently built a full-stack task management application with both frontend and
 
 
 *Always learning, always growing* 🚀
+
 
